@@ -1,6 +1,7 @@
 {
  "version":"1.4" , 
  "files":[
-	  	"index.php"
+ 		"index.php",
+	  	"phpminiadmin.php",
 	]
 }
